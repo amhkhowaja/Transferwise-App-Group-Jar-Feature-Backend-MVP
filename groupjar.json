@@ -1,0 +1,310 @@
+{
+    "jar": [
+        {
+            "id": 123,
+            "name": "Family",
+            "amount": 250,
+            "currency": "EUR",
+            "type": "GROUP",
+            "admins": [
+                {
+                    "id": 1,
+                    "name": "Aadarsh Mehdi",
+                    "amount": 500,
+                    "currency": "EUR",
+                    "right": true
+                }
+            ],
+            "account_holders": [
+                {
+                    "id": 1,
+                    "name": "Aadarsh Mehdi",
+                    "amount": 500,
+                    "currency": "EUR",
+                    "right": true
+                },
+                {
+                    "id": 2,
+                    "name": "Makhlug Jafarov",
+                    "amount": 2000,
+                    "currency": "EUR",
+                    "right": false
+                },
+                {
+                    "id": 3,
+                    "name": "Bayram",
+                    "amount": 5000,
+                    "currency": "EUR",
+                    "right": false
+                },
+                {
+                    "id": 2,
+                    "name": "Makhlug Jafarov",
+                    "amount": 2000,
+                    "currency": "EUR",
+                    "right": false
+                },
+                {
+                    "id": 3,
+                    "name": "Bayram",
+                    "amount": 5000,
+                    "currency": "EUR",
+                    "right": false
+                }
+            ],
+            "transactions": [
+                {
+                    "id": "2022-10-23 03:02:23.827062",
+                    "type": "CREDIT",
+                    "amount": 250,
+                    "sender": {
+                        "id": 1,
+                        "name": "Aadarsh Mehdi",
+                        "amount": 250,
+                        "currency": "EUR",
+                        "right": true
+                    }
+                },
+                {
+                    "id": "2022-10-23 03:02:23.852097",
+                    "type": "CREDIT",
+                    "amount": 500,
+                    "sender": {
+                        "id": 2,
+                        "name": "Makhlug Jafarov",
+                        "amount": 1500,
+                        "currency": "EUR",
+                        "right": false
+                    }
+                },
+                {
+                    "id": "2022-10-23 03:02:24.882196",
+                    "type": "DEBIT",
+                    "amount": 500,
+                    "sender": {
+                        "id": 1,
+                        "name": "Aadarsh Mehdi",
+                        "amount": 750,
+                        "currency": "EUR",
+                        "right": true
+                    }
+                },
+                {
+                    "id": "2022-10-23 08:57:04.182782",
+                    "type": "CREDIT",
+                    "amount": 250,
+                    "sender": {
+                        "id": 1,
+                        "name": "Aadarsh Mehdi",
+                        "amount": 250,
+                        "currency": "EUR",
+                        "right": true
+                    }
+                },
+                {
+                    "id": "2022-10-23 08:57:04.210782",
+                    "type": "CREDIT",
+                    "amount": 500,
+                    "sender": {
+                        "id": 2,
+                        "name": "Makhlug Jafarov",
+                        "amount": 1500,
+                        "currency": "EUR",
+                        "right": false
+                    }
+                },
+                {
+                    "id": "2022-10-23 08:57:05.258782",
+                    "type": "DEBIT",
+                    "amount": 500,
+                    "sender": {
+                        "id": 1,
+                        "name": "Aadarsh Mehdi",
+                        "amount": 750,
+                        "currency": "EUR",
+                        "right": true
+                    }
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "name": "Family",
+            "amount": 0,
+            "currency": "EUR",
+            "type": "GROUP",
+            "admins": [
+                {
+                    "id": 1,
+                    "name": "Aadarsh Mehdi",
+                    "amount": 500,
+                    "currency": "EUR",
+                    "right": true
+                }
+            ],
+            "account_holders": [
+                {
+                    "id": 1,
+                    "name": "Aadarsh Mehdi",
+                    "amount": 500,
+                    "currency": "EUR",
+                    "right": true
+                }
+            ],
+            "transactions": []
+        }
+    ],
+    "account_holders": [
+        {
+            "id": 123,
+            "name": "ahmed",
+            "amount": 200,
+            "currency": "euro",
+            "right": "yes"
+        },
+        {
+            "id": 321,
+            "name": "maher",
+            "amount": 231,
+            "currency": "euro",
+            "right": "no"
+        },
+        {
+            "id": 241,
+            "name": "mehdi",
+            "amount": 31,
+            "currency": "euro",
+            "right": "yes"
+        },
+        {
+            "id": 851,
+            "name": "tea",
+            "amount": 2451,
+            "currency": "euro",
+            "right": "yes"
+        },
+        {
+            "id": 455,
+            "name": "goran",
+            "amount": 652,
+            "currency": "euro",
+            "right": "no"
+        },
+        {
+            "id": 1,
+            "name": "Aadarsh Mehdi",
+            "amount": 750,
+            "currency": "EUR",
+            "right": true
+        },
+        {
+            "id": 2,
+            "name": "Makhlug Jafarov",
+            "amount": 1500,
+            "currency": "EUR",
+            "right": false
+        },
+        {
+            "id": 3,
+            "name": "Bayram",
+            "amount": 5000,
+            "currency": "EUR",
+            "right": false
+        },
+        {
+            "id": 1,
+            "name": "Aadarsh Mehdi",
+            "amount": 500,
+            "currency": "EUR",
+            "right": true
+        },
+        {
+            "id": 2,
+            "name": "Makhlug Jafarov",
+            "amount": 2000,
+            "currency": "EUR",
+            "right": false
+        },
+        {
+            "id": 3,
+            "name": "Bayram",
+            "amount": 5000,
+            "currency": "EUR",
+            "right": false
+        }
+    ],
+    "transactions": [
+        {
+            "id": "2022-10-23 03:02:23.827062",
+            "type": "CREDIT",
+            "amount": 250,
+            "sender": {
+                "id": 1,
+                "name": "Aadarsh Mehdi",
+                "amount": 250,
+                "currency": "EUR",
+                "right": true
+            }
+        },
+        {
+            "id": "2022-10-23 03:02:23.852097",
+            "type": "CREDIT",
+            "amount": 500,
+            "sender": {
+                "id": 2,
+                "name": "Makhlug Jafarov",
+                "amount": 1500,
+                "currency": "EUR",
+                "right": false
+            }
+        },
+        {
+            "id": "2022-10-23 03:02:24.882196",
+            "type": "DEBIT",
+            "amount": 500,
+            "sender": {
+                "id": 1,
+                "name": "Aadarsh Mehdi",
+                "amount": 750,
+                "currency": "EUR",
+                "right": true
+            }
+        },
+        {
+            "id": "2022-10-23 08:57:04.182782",
+            "type": "CREDIT",
+            "amount": 250,
+            "sender": {
+                "id": 1,
+                "name": "Aadarsh Mehdi",
+                "amount": 250,
+                "currency": "EUR",
+                "right": true
+            }
+        },
+        {
+            "id": "2022-10-23 08:57:04.210782",
+            "type": "CREDIT",
+            "amount": 500,
+            "sender": {
+                "id": 2,
+                "name": "Makhlug Jafarov",
+                "amount": 1500,
+                "currency": "EUR",
+                "right": false
+            }
+        },
+        {
+            "id": "2022-10-23 08:57:05.258782",
+            "type": "DEBIT",
+            "amount": 500,
+            "sender": {
+                "id": 1,
+                "name": "Aadarsh Mehdi",
+                "amount": 750,
+                "currency": "EUR",
+                "right": true
+            }
+        }
+    ]
+}
